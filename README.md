@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there im a Jr Developer 👋
 
+
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about C# and i'll help you
+- 🤔 My programming languages are C# and JS
+- 🌱 Some frameworks I want to learn are Asp.net and Angular
 <!--
 **FelipeAugustoCSharp/FelipeAugustoCSharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
