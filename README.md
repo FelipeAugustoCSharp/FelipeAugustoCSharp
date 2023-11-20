@@ -44,10 +44,10 @@
 </br>
 
 
-<p align="left">
+<!--<p align="left">
   <a href="#"><img alt="Portfolio" title="No Portfolio Yet" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
   <a href="https://github.com/FelipeAugustoCSharp?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
+</p>-->
 
 ## 🔥 My contribution streak
 
