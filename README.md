@@ -64,6 +64,10 @@
   <a href="https://github.com/FelipeAugustoCSharp?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>-->
 
+<h2> My Wakatime Stats </h2>  
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@FelipeAugustoCSharp)](https://wakatime.com/@FelipeAugustoCSharp)
+
 ## 🔥 My contribution streak
 
 <p align="center">
