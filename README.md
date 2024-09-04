@@ -2,7 +2,7 @@
 ## <h1 align="center">✅ I can provide solutions for problems.</h1> 
 <h3 align="center"> ⭐ Stars are appreciated! ⭐</h3>
 
-![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM5OGFqeTg0MWs2YWF3djZ1MjFrdmpuMzJqbGh0MGJ5ODhvaTgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.webp)![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ4cXI3OXhmZmpjODltYTZ1cTJlMzd0MHMzZGo1ZTY0MjY2Ymt1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0AOcoiLAFGBtE4/giphy.webp)
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM5OGFqeTg0MWs2YWF3djZ1MjFrdmpuMzJqbGh0MGJ5ODhvaTgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.webp)
 
 
 </br>
