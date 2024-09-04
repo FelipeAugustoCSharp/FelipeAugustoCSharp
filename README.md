@@ -29,7 +29,7 @@
                         src="https://imgs.search.brave.com/FihthY8hMrxn60mcDaOWs6cpLeU5olROkI4hra30AuQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn" /></a>
             <td><a href="#"><img alt="C#" title="C#" height="28px"
                         src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" /></a></td>
-          <td><a href="#"><img alt="Angular2" title="Angular2" height="28px"
+          <td><a href="#"><img alt="Angular2" title="Angular16" height="28px"
                         src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" /></a></td>
           <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
