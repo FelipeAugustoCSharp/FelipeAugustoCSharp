@@ -34,6 +34,9 @@
           <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
+             <td><a href="#"><img alt="Typescript" title="Typescript" height="28px"
+                        src="https://imgs.search.brave.com/MD4jvIqyGS1_OGlLM9kgOJLw1Yd0ShQwj3kYsbtgW1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi01MTJ4NTEyLXlo/MHl1M3RhLnBuZw" /></a>
+            </td>
         </tr>
         <tr>
             <td><a href="#"><img alt="VisualStudio" title="Visual Studio" height="28px"
@@ -47,6 +50,8 @@
                         src="https://cdn.imgbin.com/10/25/3/imgbin-microsoft-sql-server-computer-icons-database-server-sql-logo-1JT9pRmqwTW65WvxFa6DgYh2Q.jpg" /></a></td>
            <td><a href="#"><img alt="GIT" title="GIT" height="28px"
                         src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" /></a></td>
+            <td><a href="#"><img alt="JEST" title="JEST" height="28px"
+                        src="https://static-00.iconduck.com/assets.00/jest-icon-463x512-h2qr9fn5.png" /></a></td>
         </tr>
     </tbody>
 </table>
