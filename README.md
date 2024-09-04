@@ -1,9 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-</br>
-</br>
-# ✅ I can provide solutions for problems.
+
+## <h1 align="center">✅ I can provide solutions for problems.</h1> 
+<h3 align="center"> ⭐ Stars are appreciated! ⭐</h3>
+
+![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM5OGFqeTg0MWs2YWF3djZ1MjFrdmpuMzJqbGh0MGJ5ODhvaTgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.webp)![Image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ4cXI3OXhmZmpjODltYTZ1cTJlMzd0MHMzZGo1ZTY0MjY2Ymt1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0AOcoiLAFGBtE4/giphy.webp)
 
 
+</br>
 
 
 </br>
@@ -64,10 +66,9 @@
   <a href="https://github.com/FelipeAugustoCSharp?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>-->
 
-<h2> My Wakatime Stats </h2>  
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@FelipeAugustoCSharp)](https://wakatime.com/@FelipeAugustoCSharp)
-
+# Wakatime
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@FelipeAugustoCSharp)
+<!--
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -75,8 +76,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAugustoCSharp#version3"/>
   </a>
 </p>
+-->
 
-<h3 align="center"> ⭐ Stars are appreciated! ⭐</h3>
+
 
 
 ## 📈 Github Stats
